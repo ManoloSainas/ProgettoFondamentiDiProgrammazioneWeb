@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/paginaPrincipaleServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/utils/Utils.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/model/SessioneFactory.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/web/registrazioneEffettuata.jsp</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/model/Sessione.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/donazioniEffettuateServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/prenotaServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/model/PrenotazioneFactory.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/model/Utente.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/nuovaSessioneServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/db/DatabaseManager.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/web/paginaPrincipale.jsp</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/web/registrazione.jsp</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/gestisciDonazioniServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/model/Prenotazione.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/listaDonatoriServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/model/UtenteFactory.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/logoutServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/web/index.jsp</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/HomeServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/web/login.jsp</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/registrazioneServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/loginServlet.java</file>
+            <file>file:/home/fpw/NetBeansProjects/Avis/src/java/avis/servlet/amministratoreServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
